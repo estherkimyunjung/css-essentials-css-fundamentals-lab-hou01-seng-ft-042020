@@ -1,7 +1,7 @@
 body {
+  margin: 0;
   width: 100%;
   height: 100%;
-  margin: 0;
   text-align: center;
 }
 figcaption {
@@ -13,10 +13,11 @@ a {
 }
 #featured-property p {
   width: 800px;
-  text-align: center;
   margin: auto;
-  padding-top: 10px;
-  padding-bottom: 10px;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  font-size: 20px;
+  text-align: center;
 }
 #details {
   display: block;
@@ -26,12 +27,12 @@ a {
 }
 #details div {
   float: left;
-  background-color: red;
-  text-align: center;
   width: 25%;
+  background-color: red;
   font-size: 15px;
+  text-align: center;
 }
 #details a {
-  background-color: red;
   padding: 2px;
+  background-color: red;
 }
