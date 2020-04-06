@@ -30,4 +30,5 @@ a {
 }
 #details a {
   background-color: red;
+  padding: 5px;
 }
